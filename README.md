@@ -11,3 +11,6 @@ GUIDE ON HOW TO START & PLAY THE SIMON SAYS GAME :-
 6. Try to remember and repeat the sequence accurately to keep progressing.
 7. The game ends when you make a mistake and do not correctly repeat the sequence.
 8. Your final score will be displayed, showing how many rounds you successfully completed.
+
+
+Use GitHub sandbox to view this project.
